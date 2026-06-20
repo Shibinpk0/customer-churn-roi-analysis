@@ -166,6 +166,3 @@ streamlit run app.py
 **Shibin**
 
 Final Year Student | Data Science & Machine Learning Enthusiast
-
-
-For internships and recruiters, this version looks significantly more professional and can help showcase your ML, business analytics, explainable AI, and deployment skills in one project.

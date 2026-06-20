@@ -14,7 +14,8 @@ Instead of a black-box prediction, the model uses a SHAP Waterfall plot to show 
 A dynamic slider allowing business stakeholders to adjust the risk threshold. Shows in real-time how targeting fewer people lowers campaign costs but might reduce Net ROI.
 
 3. Model Benchmarking
-(Drag and drop your model_benchmarking.png here)
+<img width="1894" height="902" alt="shap_waterfall_demo" src="https://github.com/user-attachments/assets/096be406-a762-45cc-a155-db5df2aac9b7" />
+
 
 XGBoost was selected over Logistic Regression, Random Forest, and LightGBM due to its superior 84.16% AUC-ROC on imbalanced data.
 
@@ -23,9 +24,11 @@ Data Pipeline: SQLite, SQL Queries, Pandas
 Machine Learning: XGBoost, Scikit-Learn, Class Imbalance Handling
 Explainability: SHAP (TreeExplainer, Waterfall Plots)
 Deployment: Streamlit Cloud, GitHub Actions
+
 🚀 How to Run
 Clone the repo: git clone <your-link>
 Install dependencies: pip install -r requirements.txt
 Run app: streamlit run app.py
+
 🔗 Live Application
 Click here to view the live interactive dashboard

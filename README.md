@@ -157,7 +157,7 @@ streamlit run app.py
 
 **Interactive Dashboard:**
 
-[[The LINK]](https://customer-churn-roi-analysis-5eypgnz4mknfzwttaqolzw.streamlit.app)
+[[Click here to view the live interactive dashboard]](https://customer-churn-roi-analysis-5eypgnz4mknfzwttaqolzw.streamlit.app)
 
 ---
 

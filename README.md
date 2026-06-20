@@ -42,8 +42,8 @@ The system not only predicts customer churn but also explains the reasons behind
 
 ### 1️⃣ Individual Customer Risk & SHAP Explanation
 
-![SHAP Waterfall Plot](<img width="1894" height="902" alt="shap_waterfall_demo" src="https://github.com/user-attachments/assets/aeb72e29-25b9-4b6a-9620-f01695411e64" />
-)
+<img width="1894" height="901" alt="model_benchmarking" src="https://github.com/user-attachments/assets/08ba766f-da74-45b5-8046-7895febb0a96" />
+
 
 The SHAP Waterfall Plot explains exactly why a customer is predicted to churn.
 
@@ -157,7 +157,7 @@ streamlit run app.py
 
 **Interactive Dashboard:**
 
-[[Add Your Streamlit URL Here]](https://customer-churn-roi-analysis-5eypgnz4mknfzwttaqolzw.streamlit.app)
+[[The LINK]](https://customer-churn-roi-analysis-5eypgnz4mknfzwttaqolzw.streamlit.app)
 
 ---
 

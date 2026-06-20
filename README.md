@@ -42,7 +42,8 @@ The system not only predicts customer churn but also explains the reasons behind
 
 ### 1️⃣ Individual Customer Risk & SHAP Explanation
 
-<img width="1894" height="901" alt="model_benchmarking" src="https://github.com/user-attachments/assets/08ba766f-da74-45b5-8046-7895febb0a96" />
+<img width="1894" height="902" alt="image" src="https://github.com/user-attachments/assets/6c6c9a2b-df13-42d8-b0be-9ba06a85630f" />
+
 
 
 The SHAP Waterfall Plot explains exactly why a customer is predicted to churn.
@@ -59,8 +60,8 @@ This eliminates the "black-box" problem and improves stakeholder trust.
 
 ### 2️⃣ Dynamic Cost-Benefit Threshold Analysis
 
-![ROI Threshold Analysis](<img width="1909" height="722" alt="roi_threshold_demo" src="https://github.com/user-attachments/assets/7790a65d-9205-40b3-adc7-bb53791c555c" />
-)
+<img width="1909" height="722" alt="image" src="https://github.com/user-attachments/assets/443406c7-e6b2-49aa-a6d3-a78869903979" />
+
 
 Business users can adjust the churn-risk threshold and observe the impact on:
 
@@ -74,9 +75,8 @@ This helps determine the most profitable retention strategy.
 ---
 
 ### 3️⃣ Model Performance Comparison
+<img width="1894" height="901" alt="image" src="https://github.com/user-attachments/assets/500281ab-4ce7-41a8-a67e-2b5e744ab2ee" />
 
-![Model Comparison](<img width="1894" height="901" alt="model_benchmarking" src="https://github.com/user-attachments/assets/66fb0d82-6387-496c-bc84-39fc09cb26d9" />
-)
 
 | Model               | AUC-ROC    |
 | ------------------- | ---------- |
